@@ -1,7 +1,9 @@
 # Integration Tutorial: jQuery File Uploader 9 with CodeIgniter 3
 
 This is the library's original readme file except this pragraph. Created because of this tutorial:
-[Show My Blog Post](http://mevlutcanvar.com.tr/en/integration-tutorial-jquery-file-uploader-9-with-codeigniter-3/239)
+[Show My Blog Post: Integration Tutorial jFU with CI](https://mevlutcanvar.com.tr/en/integration-tutorial-jquery-file-uploader-9-with-codeigniter-3/239)
+
+----------
 
 ## Demo
 [Demo File Upload](https://blueimp.github.io/jQuery-File-Upload/)
